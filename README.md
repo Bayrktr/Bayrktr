@@ -1,4 +1,4 @@
-🔭 Hello, I am Emir, a 16 year old high school student. I work in the field of mobile applications.
+🔭 Hello, I am Emir, a 17 year old high school student. I work in the field of mobile applications.
 
 
 ## 🌐 Socials:
