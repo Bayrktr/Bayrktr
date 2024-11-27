@@ -1,1 +1,1 @@
-![Himeno Chainsaw Man](anime.gif)
+![Himeno Chainsaw Man](himeno-chainsaw-man.gif)
