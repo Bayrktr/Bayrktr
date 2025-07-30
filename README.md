@@ -1,1 +1,1 @@
-![Himeno Chainsaw Man](himeno-chainsaw-man.gif)
+![Tengen](tengen-uzui-gyutaro.gif)
