@@ -1,24 +1,19 @@
-<!-- Mobil ekran taklidi -->
-<div style="font-family: sans-serif; max-width: 300px; margin: 0 auto; border: 10px solid #333; border-radius: 40px; padding: 20px; background: #f7f7f7; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
-  <div style="text-align: center; font-weight: bold; font-size: 20px; margin-bottom: 20px;">
-    🧑‍💻 Mobil Geliştirici Demo App
+<!-- Mobil görünüm -->
+<div style="width: 300px; margin: auto; border: 16px solid #3f51b5; border-radius: 40px; padding: 20px; font-family: sans-serif; background: #f5f5f5; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
+  <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px; color: #3f51b5;">
+    🚀 Flutter App
   </div>
-
-  <div style="margin-bottom: 10px;">
-    <label for="email">📧 E-posta</label><br/>
-    <input type="email" id="email" placeholder="kullanici@uygulama.dev" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 10px;" />
+  <div style="background: white; padding: 15px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <strong>Kullanıcı:</strong> Ali  
+    <div style="font-size: 12px; color: #777;">"Ben Flutter yazınca context'im bile duygulanıyor..."</div>
   </div>
-
-  <div style="margin-bottom: 20px;">
-    <label for="password">🔒 Şifre</label><br/>
-    <input type="password" id="password" placeholder="••••••••" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 10px;" />
+  <div style="background: white; padding: 15px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <strong>Widget:</strong> CustomSearchDropdown  
+    <div style="font-size: 12px; color: #777;">Otamatik açılıyor, filtreliyor, seçtiriyor, kahve bile yapıyor ☕</div>
   </div>
-
-  <button onclick="alert('🎉 Giriş başarılı! Flutter gücüyle giriş yaptın!')" style="width: 100%; padding: 12px; background: linear-gradient(to right, #4facfe, #00f2fe); border: none; color: white; font-weight: bold; border-radius: 12px; cursor: pointer;">
-    🚀 Giriş Yap
-  </button>
-
-  <p style="margin-top: 20px; font-size: 14px; color: #666; text-align: center;">
-    <em>* Not: Bu sadece bir demo. Gerçek uygulamamda Firebase bile var 👀</em>
-  </p>
+  <div style="text-align: center;">
+    <button style="background-color: #3f51b5; color: white; padding: 10px 20px; border: none; border-radius: 12px; cursor: pointer;">
+      Flutter ❤️ HTML
+    </button>
+  </div>
 </div>
